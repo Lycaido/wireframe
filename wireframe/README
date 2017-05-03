@@ -1,0 +1,11 @@
+  
+   README for wireframe in /home/Rev/Delivery/infographie/wireframe
+   
+   Made by Roméo Nahon
+   Login   <Rev@epitech.net>
+   
+   Started on  Wed May  3 10:54:06 2017 Roméo Nahon
+   Last update Wed May  3 10:55:00 2017 Roméo Nahon
+  
+pour executez le projet, faite "make re" puis ./wireframe map
+pour modifier le resultat, modifier le fichier map
